@@ -17,6 +17,14 @@ body{
     position: absolute;
     right: 23%;
 }
+.position a{
+    text-decoration: none;
+    color: #000;
+}
+.decor a{
+    text-decoration: none;
+    color: #000;
+}
 .box{
     display: flex;
 }
